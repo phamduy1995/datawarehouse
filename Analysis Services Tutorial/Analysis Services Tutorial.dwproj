@@ -62,6 +62,7 @@
             <Value xsi:type="xsd:int">0</Value>
           </ConfigurationSetting>
         </ConnectionSecurityMappings>
+        <OutputPath>E:\sql_server\Adventure\Deploy\</OutputPath>
       </Options>
     </Configuration>
   </Configurations>

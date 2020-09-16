@@ -40,21 +40,21 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>GoW0E9ThJ2RHeFcAcI3yNsPQZ5A=9/15/2020 5:55:04 PM9/15/2020 5:55:04 PM</TimeStamp>
+        <TimeStamp>4uurmBEXT52Mmx0Tmy0yGXOWeZw=9/16/2020 8:54:27 AM9/15/2020 5:55:04 PM</TimeStamp>
         <ID>
           <String>Customer</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>N/j9m0pcD+8Y6bfaWLYHWHuAHx4=9/15/2020 5:55:04 PM9/15/2020 5:55:04 PM</TimeStamp>
+        <TimeStamp>9rpHoA+qcatCGa7koVAg2OQg6nQ=9/16/2020 9:12:17 AM9/15/2020 5:55:04 PM</TimeStamp>
         <ID>
           <String>Product</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>G0EkDfqrT1SyEt45pkufNuahoNg=9/15/2020 5:55:04 PM9/15/2020 5:55:04 PMFbQkIECzd8S8GymgaosF4PvU+FA=9/15/2020 5:55:04 PM9/15/2020 5:55:04 PM</TimeStamp>
+        <TimeStamp>ji5fcAhJ3gwyB3P0F+xwG/qhamU=9/16/2020 9:12:17 AM9/15/2020 5:55:04 PMFbQkIECzd8S8GymgaosF4PvU+FA=9/15/2020 5:55:04 PM9/15/2020 5:55:04 PM</TimeStamp>
         <ID>
           <String>Analysis Services Tutorial</String>
         </ID>
@@ -70,6 +70,6 @@
     <Granularity>Coarse</Granularity>
   </Snapshot>
   <AssemblyLocations />
-  <ProcessingComplete>false</ProcessingComplete>
-  <LastDeployed>2020-09-15T11:14:48.886667Z</LastDeployed>
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2020-09-16T02:52:36.99Z</LastDeployed>
 </DeploymentSnapshot>
